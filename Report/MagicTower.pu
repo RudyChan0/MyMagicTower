@@ -1,0 +1,18 @@
+@startuml
+
+class Creature{}
+
+class CreatureAI{}
+class PlayerAI{}
+class MonsterAI{}
+class DetectorAI{}
+class GuardAI{}
+
+class CreatureThread{}
+
+class CreatureFactory{}
+
+
+CreatureAI <|-- PlayerAI
+
+@enduml
