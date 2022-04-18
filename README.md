@@ -1,6 +1,6 @@
 # 《Developing a Java Game from Scratch》
 
-​                                                                                                                                                   **181860011 陈彦如**
+**可运行文件于Code/magicToer/target目录下**
 
 ## 开发目标
 
