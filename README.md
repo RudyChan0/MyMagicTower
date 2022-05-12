@@ -29,11 +29,11 @@
 
 
 
-**游戏截图 **
+**游戏截图**
 
-<img src="D:\Study\Work\MyMagicTower\README.assets\play2-16523406048931.png" alt="play2"  style="zoom:67%;" />  
+<img src="play2.png" alt="play2"  style="zoom:67%;" />  
 
-<img src="D:\Study\Work\MyMagicTower\README.assets\play3.png" alt="play3" style="zoom: 67%;" />  
+<img src="play3.png" alt="play3" style="zoom: 67%;" />  
 
 
 ## 设计理念
