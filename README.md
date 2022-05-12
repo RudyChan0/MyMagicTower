@@ -25,6 +25,16 @@
   - 功能：保存、加载、多人游戏
   - 使用selector进行网络通信
   - 使用maven进行项目管理
+  
+
+
+
+**游戏截图 **
+
+<img src="D:\Study\Work\MyMagicTower\README.assets\play2-16523406048931.png" alt="play2"  style="zoom:67%;" />  
+
+<img src="D:\Study\Work\MyMagicTower\README.assets\play3.png" alt="play3" style="zoom: 67%;" />  
+
 
 ## 设计理念
 

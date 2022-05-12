@@ -1,0 +1,160 @@
+Date : 2022-04-19 00:36:43
+Directory : d:\Study\Work\MyMagicTower\Code
+Total : 101 files,  4672 codes, 592 comments, 693 blanks, all 5957 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Java       |         80 |      4,221 |        582 |        683 |      5,486 |
+| JSON       |         18 |        306 |          0 |          0 |        306 |
+| XML        |          2 |        142 |          8 |          9 |        159 |
+| Properties |          1 |          3 |          2 |          1 |          6 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                               | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                  |        101 |      4,672 |        592 |        693 |      5,957 |
+| magicTower                                                                                         |        101 |      4,672 |        592 |        693 |      5,957 |
+| magicTower\src                                                                                     |         49 |      2,971 |        485 |        665 |      4,121 |
+| magicTower\src\main                                                                                |         48 |      2,951 |        471 |        660 |      4,082 |
+| magicTower\src\main\java                                                                           |         39 |      2,798 |        471 |        660 |      3,929 |
+| magicTower\src\main\java\com                                                                       |         39 |      2,798 |        471 |        660 |      3,929 |
+| magicTower\src\main\java\com\asciiPanel                                                            |          4 |        509 |        356 |        177 |      1,042 |
+| magicTower\src\main\java\com\net                                                                   |          3 |        298 |         22 |         45 |        365 |
+| magicTower\src\main\java\com\screen                                                                |         10 |        714 |         23 |        119 |        856 |
+| magicTower\src\main\java\com\world                                                                 |         21 |      1,217 |         56 |        302 |      1,575 |
+| magicTower\src\main\java\com\world\creature                                                        |          8 |        530 |         17 |        116 |        663 |
+| magicTower\src\main\java\com\world\item                                                            |          3 |         82 |          0 |         23 |        105 |
+| magicTower\src\main\java\com\world\tile                                                            |          3 |        114 |         32 |         47 |        193 |
+| magicTower\src\main\resources                                                                      |          9 |        153 |          0 |          0 |        153 |
+| magicTower\src\main\resources\maps                                                                 |          9 |        153 |          0 |          0 |        153 |
+| magicTower\src\test                                                                                |          1 |         20 |         14 |          5 |         39 |
+| magicTower\src\test\java                                                                           |          1 |         20 |         14 |          5 |         39 |
+| magicTower\src\test\java\com                                                                       |          1 |         20 |         14 |          5 |         39 |
+| magicTower\target                                                                                  |         51 |      1,628 |         99 |         19 |      1,746 |
+| magicTower\target\classes                                                                          |         48 |      1,541 |         97 |         18 |      1,656 |
+| magicTower\target\classes\com                                                                      |         39 |      1,388 |         97 |         18 |      1,503 |
+| magicTower\target\classes\com\asciiPanel                                                           |          4 |        116 |         55 |          0 |        171 |
+| magicTower\target\classes\com\net                                                                  |          3 |        177 |          0 |          1 |        178 |
+| magicTower\target\classes\com\screen                                                               |         10 |        354 |         37 |          2 |        393 |
+| magicTower\target\classes\com\world                                                                |         21 |        708 |          0 |         14 |        722 |
+| magicTower\target\classes\com\world\creature                                                       |          8 |        286 |          0 |          0 |        286 |
+| magicTower\target\classes\com\world\item                                                           |          3 |         52 |          0 |          0 |         52 |
+| magicTower\target\classes\com\world\tile                                                           |          3 |         60 |          0 |          5 |         65 |
+| magicTower\target\classes\maps                                                                     |          9 |        153 |          0 |          0 |        153 |
+| magicTower\target\maven-archiver                                                                   |          1 |          3 |          2 |          1 |          6 |
+| magicTower\target\surefire-reports                                                                 |          1 |         69 |          0 |          0 |         69 |
+| magicTower\target\test-classes                                                                     |          1 |         15 |          0 |          0 |         15 |
+| magicTower\target\test-classes\com                                                                 |          1 |         15 |          0 |          0 |         15 |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                           | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\Study\Work\MyMagicTower\Code\magicTower\pom.xml                                                 | XML        |         73 |          8 |          9 |         90 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\ApplicationMain.java                  | Java       |         60 |         14 |         17 |         91 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\asciiPanel\AsciiCharacterData.java    | Java       |          7 |          0 |          2 |          9 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\asciiPanel\AsciiFont.java             | Java       |         30 |          8 |          9 |         47 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\asciiPanel\AsciiPanel.java            | Java       |        468 |        348 |        165 |        981 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\asciiPanel\TileTransformer.java       | Java       |          4 |          0 |          1 |          5 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\net\ByteUtil.java                     | Java       |         46 |          0 |          9 |         55 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\net\MyClient.java                     | Java       |         94 |         12 |         17 |        123 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\net\MyServer.java                     | Java       |        158 |         10 |         19 |        187 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\screen\AbstractScreen.java            | Java       |         17 |          0 |         12 |         29 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\screen\ClientScreen.java              | Java       |         72 |          2 |         11 |         85 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\screen\DeadScreen.java                | Java       |         20 |          0 |          6 |         26 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\screen\HostScreen.java                | Java       |         77 |          5 |         12 |         94 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\screen\LoadScreen.java                | Java       |        101 |          2 |         11 |        114 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\screen\OptionScreen.java              | Java       |         66 |          0 |         10 |         76 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\screen\PlayScreen.java                | Java       |        181 |          8 |         25 |        214 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\screen\SaveScreen.java                | Java       |        103 |          2 |         10 |        115 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\screen\Screen.java                    | Java       |         11 |          4 |         10 |         25 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\screen\StartScreen.java               | Java       |         66 |          0 |         12 |         78 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\Archive.java                    | Java       |         57 |          0 |         17 |         74 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\Floor.java                      | Java       |        193 |          1 |         34 |        228 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\FloorBuilder.java               | Java       |         38 |          1 |          7 |         46 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\FloorData.java                  | Java       |         31 |          0 |         14 |         45 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\SnapShot.java                   | Java       |         59 |          4 |         13 |         76 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\World.java                      | Java       |        100 |          1 |         26 |        127 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\WorldBuilder.java               | Java       |         13 |          0 |          5 |         18 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\creature\Creature.java          | Java       |        177 |          7 |         46 |        230 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\creature\CreatureAI.java        | Java       |         44 |          0 |         14 |         58 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\creature\CreatureFactory.java   | Java       |         44 |          4 |         12 |         60 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\creature\CreatureThread.java    | Java       |         31 |          0 |          6 |         37 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\creature\DetectorAI.java        | Java       |         39 |          0 |          7 |         46 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\creature\GuardAI.java           | Java       |         39 |          0 |          7 |         46 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\creature\MonsterAI.java         | Java       |         87 |          1 |          9 |         97 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\creature\PlayerAI.java          | Java       |         69 |          5 |         15 |         89 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\item\Item.java                  | Java       |         48 |          0 |         11 |         59 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\item\ItemFactory.java           | Java       |         25 |          0 |         10 |         35 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\item\ItemKind.java              | Java       |          9 |          0 |          2 |         11 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\tile\Tile.java                  | Java       |         67 |         32 |         34 |        133 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\tile\TileFactory.java           | Java       |         37 |          0 |         11 |         48 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com\world\tile\TileKind.java              | Java       |         10 |          0 |          2 |         12 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor1.json                     | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor2.json                     | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor3.json                     | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor4.json                     | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor5.json                     | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor6.json                     | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor7.json                     | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor8.json                     | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\maze.json                       | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\test\java\com\AppTest.java                          | Java       |         20 |         14 |          5 |         39 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\ApplicationMain.class                | Java       |         33 |          5 |          1 |         39 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\asciiPanel\AsciiCharacterData.class  | Java       |          6 |          0 |          0 |          6 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\asciiPanel\AsciiFont.class           | Java       |         21 |          0 |          0 |         21 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\asciiPanel\AsciiPanel.class          | Java       |         86 |         55 |          0 |        141 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\asciiPanel\TileTransformer.class     | Java       |          3 |          0 |          0 |          3 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\net\ByteUtil.class                   | Java       |         38 |          0 |          0 |         38 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\net\MyClient.class                   | Java       |         55 |          0 |          0 |         55 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\net\MyServer.class                   | Java       |         84 |          0 |          1 |         85 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\AbstractScreen.class          | Java       |         11 |          0 |          0 |         11 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\ClientScreen.class            | Java       |         46 |          0 |          0 |         46 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\DeadScreen.class              | Java       |         18 |          0 |          0 |         18 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\HostScreen.class              | Java       |         43 |          0 |          0 |         43 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\LoadScreen.class              | Java       |         45 |          0 |          0 |         45 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\OptionScreen.class            | Java       |         24 |          0 |          0 |         24 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\PlayScreen.class              | Java       |         78 |         37 |          1 |        116 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\SaveScreen.class              | Java       |         52 |          0 |          1 |         53 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\Screen.class                  | Java       |          5 |          0 |          0 |          5 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\StartScreen.class             | Java       |         32 |          0 |          0 |         32 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\Archive.class                  | Java       |         38 |          0 |          3 |         41 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\Floor.class                    | Java       |        114 |          0 |          4 |        118 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\FloorBuilder.class             | Java       |         26 |          0 |          0 |         26 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\FloorData.class                | Java       |         14 |          0 |          2 |         16 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\SnapShot.class                 | Java       |         38 |          0 |          0 |         38 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\World.class                    | Java       |         62 |          0 |          0 |         62 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\WorldBuilder.class             | Java       |         18 |          0 |          0 |         18 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\Creature.class        | Java       |         63 |          0 |          0 |         63 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\CreatureAI.class      | Java       |         30 |          0 |          0 |         30 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\CreatureFactory.class | Java       |         27 |          0 |          0 |         27 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\CreatureThread.class  | Java       |         28 |          0 |          0 |         28 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\DetectorAI.class      | Java       |         25 |          0 |          0 |         25 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\GuardAI.class         | Java       |         24 |          0 |          0 |         24 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\MonsterAI.class       | Java       |         44 |          0 |          0 |         44 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\PlayerAI.class        | Java       |         45 |          0 |          0 |         45 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\item\Item.class                | Java       |         22 |          0 |          0 |         22 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\item\ItemFactory.class         | Java       |         15 |          0 |          0 |         15 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\item\ItemKind.class            | Java       |         15 |          0 |          0 |         15 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\tile\Tile.class                | Java       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\tile\TileFactory.class         | Java       |         28 |          0 |          5 |         33 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\tile\TileKind.class            | Java       |         15 |          0 |          0 |         15 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor1.json                         | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor2.json                         | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor3.json                         | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor4.json                         | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor5.json                         | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor6.json                         | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor7.json                         | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor8.json                         | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\maze.json                           | JSON       |         17 |          0 |          0 |         17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\maven-archiver\pom.properties                    | Properties |          3 |          2 |          1 |          6 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\surefire-reports\TEST-com.AppTest.xml            | XML        |         69 |          0 |          0 |         69 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\test-classes\com\AppTest.class                   | Java       |         15 |          0 |          0 |         15 |
+| Total                                                                                              |            |      4,672 |        592 |        693 |      5,957 |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

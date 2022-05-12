@@ -1,0 +1,113 @@
+Date : 2022-04-19 00:37:33
+Directory : d:\Study\Work\MyMagicTower\Code\magicTower\src\main\java\com
+Total : 62 files,  -1874 codes, -121 comments, -33 blanks, all -2028 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Properties |          1 |         -3 |         -2 |         -1 |         -6 |
+| XML        |          2 |       -142 |         -8 |         -9 |       -159 |
+| JSON       |         18 |       -306 |          0 |          0 |       -306 |
+| Java       |         41 |     -1,423 |       -111 |        -23 |     -1,557 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                               | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                  |         62 |     -1,874 |       -121 |        -33 |     -2,028 |
+| ..                                                                                                 |         62 |     -1,874 |       -121 |        -33 |     -2,028 |
+| ..\..                                                                                              |         62 |     -1,874 |       -121 |        -33 |     -2,028 |
+| ..\..\..                                                                                           |         53 |     -1,721 |       -121 |        -33 |     -1,875 |
+| ..\..\..\..                                                                                        |         52 |     -1,701 |       -107 |        -28 |     -1,836 |
+| ..\..\..\..\target                                                                                 |         51 |     -1,628 |        -99 |        -19 |     -1,746 |
+| ..\..\..\..\target\classes                                                                         |         48 |     -1,541 |        -97 |        -18 |     -1,656 |
+| ..\..\..\..\target\classes\com                                                                     |         39 |     -1,388 |        -97 |        -18 |     -1,503 |
+| ..\..\..\..\target\classes\com\asciiPanel                                                          |          4 |       -116 |        -55 |          0 |       -171 |
+| ..\..\..\..\target\classes\com\net                                                                 |          3 |       -177 |          0 |         -1 |       -178 |
+| ..\..\..\..\target\classes\com\screen                                                              |         10 |       -354 |        -37 |         -2 |       -393 |
+| ..\..\..\..\target\classes\com\world                                                               |         21 |       -708 |          0 |        -14 |       -722 |
+| ..\..\..\..\target\classes\com\world\creature                                                      |          8 |       -286 |          0 |          0 |       -286 |
+| ..\..\..\..\target\classes\com\world\item                                                          |          3 |        -52 |          0 |          0 |        -52 |
+| ..\..\..\..\target\classes\com\world\tile                                                          |          3 |        -60 |          0 |         -5 |        -65 |
+| ..\..\..\..\target\classes\maps                                                                    |          9 |       -153 |          0 |          0 |       -153 |
+| ..\..\..\..\target\maven-archiver                                                                  |          1 |         -3 |         -2 |         -1 |         -6 |
+| ..\..\..\..\target\surefire-reports                                                                |          1 |        -69 |          0 |          0 |        -69 |
+| ..\..\..\..\target\test-classes                                                                    |          1 |        -15 |          0 |          0 |        -15 |
+| ..\..\..\..\target\test-classes\com                                                                |          1 |        -15 |          0 |          0 |        -15 |
+| ..\..\..\test                                                                                      |          1 |        -20 |        -14 |         -5 |        -39 |
+| ..\..\..\test\java                                                                                 |          1 |        -20 |        -14 |         -5 |        -39 |
+| ..\..\..\test\java\com                                                                             |          1 |        -20 |        -14 |         -5 |        -39 |
+| ..\..\resources                                                                                    |          9 |       -153 |          0 |          0 |       -153 |
+| ..\..\resources\maps                                                                               |          9 |       -153 |          0 |          0 |       -153 |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                           | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\Study\Work\MyMagicTower\Code\magicTower\pom.xml                                                 | XML        |        -73 |         -8 |         -9 |        -90 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor1.json                     | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor2.json                     | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor3.json                     | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor4.json                     | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor5.json                     | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor6.json                     | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor7.json                     | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\floor8.json                     | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\main\resources\maps\maze.json                       | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\src\test\java\com\AppTest.java                          | Java       |        -20 |        -14 |         -5 |        -39 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\ApplicationMain.class                | Java       |        -33 |         -5 |         -1 |        -39 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\asciiPanel\AsciiCharacterData.class  | Java       |         -6 |          0 |          0 |         -6 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\asciiPanel\AsciiFont.class           | Java       |        -21 |          0 |          0 |        -21 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\asciiPanel\AsciiPanel.class          | Java       |        -86 |        -55 |          0 |       -141 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\asciiPanel\TileTransformer.class     | Java       |         -3 |          0 |          0 |         -3 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\net\ByteUtil.class                   | Java       |        -38 |          0 |          0 |        -38 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\net\MyClient.class                   | Java       |        -55 |          0 |          0 |        -55 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\net\MyServer.class                   | Java       |        -84 |          0 |         -1 |        -85 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\AbstractScreen.class          | Java       |        -11 |          0 |          0 |        -11 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\ClientScreen.class            | Java       |        -46 |          0 |          0 |        -46 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\DeadScreen.class              | Java       |        -18 |          0 |          0 |        -18 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\HostScreen.class              | Java       |        -43 |          0 |          0 |        -43 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\LoadScreen.class              | Java       |        -45 |          0 |          0 |        -45 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\OptionScreen.class            | Java       |        -24 |          0 |          0 |        -24 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\PlayScreen.class              | Java       |        -78 |        -37 |         -1 |       -116 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\SaveScreen.class              | Java       |        -52 |          0 |         -1 |        -53 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\Screen.class                  | Java       |         -5 |          0 |          0 |         -5 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\screen\StartScreen.class             | Java       |        -32 |          0 |          0 |        -32 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\Archive.class                  | Java       |        -38 |          0 |         -3 |        -41 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\Floor.class                    | Java       |       -114 |          0 |         -4 |       -118 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\FloorBuilder.class             | Java       |        -26 |          0 |          0 |        -26 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\FloorData.class                | Java       |        -14 |          0 |         -2 |        -16 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\SnapShot.class                 | Java       |        -38 |          0 |          0 |        -38 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\World.class                    | Java       |        -62 |          0 |          0 |        -62 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\WorldBuilder.class             | Java       |        -18 |          0 |          0 |        -18 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\Creature.class        | Java       |        -63 |          0 |          0 |        -63 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\CreatureAI.class      | Java       |        -30 |          0 |          0 |        -30 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\CreatureFactory.class | Java       |        -27 |          0 |          0 |        -27 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\CreatureThread.class  | Java       |        -28 |          0 |          0 |        -28 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\DetectorAI.class      | Java       |        -25 |          0 |          0 |        -25 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\GuardAI.class         | Java       |        -24 |          0 |          0 |        -24 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\MonsterAI.class       | Java       |        -44 |          0 |          0 |        -44 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\creature\PlayerAI.class        | Java       |        -45 |          0 |          0 |        -45 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\item\Item.class                | Java       |        -22 |          0 |          0 |        -22 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\item\ItemFactory.class         | Java       |        -15 |          0 |          0 |        -15 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\item\ItemKind.class            | Java       |        -15 |          0 |          0 |        -15 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\tile\Tile.class                | Java       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\tile\TileFactory.class         | Java       |        -28 |          0 |         -5 |        -33 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\com\world\tile\TileKind.class            | Java       |        -15 |          0 |          0 |        -15 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor1.json                         | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor2.json                         | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor3.json                         | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor4.json                         | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor5.json                         | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor6.json                         | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor7.json                         | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\floor8.json                         | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\classes\maps\maze.json                           | JSON       |        -17 |          0 |          0 |        -17 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\maven-archiver\pom.properties                    | Properties |         -3 |         -2 |         -1 |         -6 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\surefire-reports\TEST-com.AppTest.xml            | XML        |        -69 |          0 |          0 |        -69 |
+| d:\Study\Work\MyMagicTower\Code\magicTower\target\test-classes\com\AppTest.class                   | Java       |        -15 |          0 |          0 |        -15 |
+| Total                                                                                              |            |     -1,874 |       -121 |        -33 |     -2,028 |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
